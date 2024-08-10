@@ -1,0 +1,15 @@
+labml
+librosa
+mir_eval
+matplotlib
+music21
+numba==0.53.1
+numpy==1.19.5
+pretty_midi
+pydub
+requests
+scikit-learn
+torch
+torchvision
+tqdm
+tensorboard
